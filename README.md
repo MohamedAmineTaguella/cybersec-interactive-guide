@@ -28,7 +28,7 @@ This interactive web application provides a comprehensive collection of penetrat
 
 ## 🚀 Live Demo | عرض مباشر
 
-*[🔗 Live Demo](https://your-demo-link.com](https://cybersec.xo.je/)  ([GitHub Pages](https://github.com/MohamedAmineTaguella))*
+*[🔗 Live Demo](https://cybersec.xo.je/)* * [GitHub Pages](https://github.com/MohamedAmineTaguella)*
 
 ---
 | Home Page |
