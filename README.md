@@ -28,17 +28,10 @@ This interactive web application provides a comprehensive collection of penetrat
 
 ## 🚀 Live Demo | عرض مباشر
 
-[🔗 Live Demo]() *([GitHub Pages](https://github.com/MohamedAmineTaguella))*
+*([GitHub Pages](https://github.com/MohamedAmineTaguella))*
 
 ---
 
-## 📸 Screenshots | لقطات الشاشة
-
-| Home Page | Web Hacking Category | Dark Mode |
-|-----------|----------------------|-----------|
-| ![Home](https://via.placeholder.com/300x200?text=Home) | ![Web](https://via.placeholder.com/300x200?text=Web+Hacking) | ![Dark](https://via.placeholder.com/300x200?text=Dark+Mode) |
-
-*(Replace placeholders with actual screenshots)*
 
 ---
 
